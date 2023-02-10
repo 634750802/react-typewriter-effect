@@ -35,7 +35,7 @@ function App () {
           </p>
         </div>
         <pre className="read-the-docs">
-          npm i react-typewriter-effect
+          npm i @djagger/react-typewriter-effect
         </pre>
       </div>
     </TypewriterEffect>

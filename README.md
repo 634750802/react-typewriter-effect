@@ -5,7 +5,7 @@
 ## Usage
 
 ```jsx
-import TypewriterEffect from "react-typewriter-effect";
+import TypewriterEffect from "@djagger/react-typewriter-effect";
 import {CSSTransition} from "react-transition-group";
 
 <div>
