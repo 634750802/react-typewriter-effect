@@ -1,0 +1,17 @@
+.typewriter-focused:after {
+  content: ' ';
+  animation: typewriter-cursor 1s steps(1, end) infinite;
+  border-left: 1px solid currentColor;
+}
+
+@keyframes typewriter-cursor {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
