@@ -20,6 +20,9 @@
     "type": "github",
     "url": "https://github.com/634750802/react-typewriter-effect.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
